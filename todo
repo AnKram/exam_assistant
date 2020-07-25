@@ -1,0 +1,21 @@
+1. Разобраться с путями, в db.php подключение functions.php
+5. перенести на сервер (+ пути)
+second iteration:
+1. open cart engine
+2. remove table users_to_rooms and change db.php for new database construction
+3. remove jquery - go to new js version (mb es10)
+4. logs
+5. refactoring queries ($conn remove)
+third iteration
+1. typify functions
+
+
+
+Вторая версия:
+
+движок open cart 3
+база с 2 таблицами, датами записи, очищающаяся по крону
+код в гите
+js es10
+логи покрывают как минимум все запросы в базу и все пробленые места в контроллерах
+привязка к домену
